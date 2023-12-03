@@ -1,0 +1,2 @@
+01.[[:space:]]Personal[[:space:]]project/06.[[:space:]]Funnel[[:space:]]analysis[[:space:]]using[[:space:]]user[[:space:]]behavior[[:space:]]log[[:space:]]data/ecommerce_behavior.csv filter=lfs diff=lfs merge=lfs -text
+01.[[:space:]]개인[[:space:]]프로젝트/06.[[:space:]]사용자[[:space:]]행동[[:space:]]로그[[:space:]]데이터를[[:space:]]활용한[[:space:]]퍼널[[:space:]]분석/ecommerce_behavior.csv filter=lfs diff=lfs merge=lfs -text
